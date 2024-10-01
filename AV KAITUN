@@ -1,0 +1,12 @@
+getgenv().RequiredLevel = 50
+getgenv().AutoSummon = true
+getgenv().AutoSellRare = true
+getgenv().AutoSellEpic = true
+getgenv().AutoSellLegendary = true
+getgenv().Webhook = true
+getgenv().WebhookURL = "https://discord.com/api/webhooks/1288807966681600001/JHeY2AUGPZgVz5jIAXJUNg1rQ0dtoMv_UBGUxlEWEZVPL8qdLqYb11zD7W904ehPCXmS"
+getgenv().BoostFPS = true
+getgenv().Disable3DRender = false
+
+script_key="mIPRUmuwLlWgtCZHeuitPFKSQbLBQEbz";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/0995061b08e1c817392da9f1a54583da.lua"))()
